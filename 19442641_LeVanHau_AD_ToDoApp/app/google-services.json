@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116256075531",
+    "project_id": "levanhau-ad-todoapp",
+    "storage_bucket": "levanhau-ad-todoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116256075531:android:0785409b53b8e23e62bc0e",
+        "android_client_info": {
+          "package_name": "com.example.a19442641_levanhau_ad_todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116256075531-qad7865opg39froonm832qrjclidd58u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8WHhIGDiLst1RajCqENNYyyWfltFgRck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116256075531-qad7865opg39froonm832qrjclidd58u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
